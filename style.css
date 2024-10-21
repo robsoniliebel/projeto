@@ -49,12 +49,13 @@ body * {
 
 #container {
     /* largura */
-    width: 360px;
+    width: 100%;
     /* altura */
     /* height: 712px; Aqui retiramos a altura para ela fluir o tamanho conforme for criando ela */
     /* borda */
     /* border: 1px solid red; */
     /* alinhamento ao centro */
+    max-width: 588px;
     margin: 56px auto 0px;
     padding: 0 24px;
 
